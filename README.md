@@ -13,10 +13,19 @@
 ![DUT](https://img.shields.io/badge/DUT-Data%20Engineering-a2d2ff?style=for-the-badge&labelColor=5a189a)
 ![Visitors](https://komarev.com/ghpvc/?username=wijdane-elkamili&color=ffafcc&style=for-the-badge&label=VISITORS&labelColor=5a189a)
 
+<br/>
+
+[![About](https://img.shields.io/badge/%F0%9F%8C%B8%20About-cdb4db?style=for-the-badge&labelColor=5a189a)](#about)
+[![Toolbox](https://img.shields.io/badge/%F0%9F%A7%B0%20Toolbox-ffafcc?style=for-the-badge&labelColor=5a189a)](#toolbox)
+[![Projects](https://img.shields.io/badge/%F0%9F%9A%80%20Projects-a2d2ff?style=for-the-badge&labelColor=5a189a)](#projects)
+[![Journey](https://img.shields.io/badge/%F0%9F%9B%A4%EF%B8%8F%20Journey-cdb4db?style=for-the-badge&labelColor=5a189a)](#journey)
+[![Contact](https://img.shields.io/badge/%F0%9F%92%8C%20Contact-ffafcc?style=for-the-badge&labelColor=5a189a)](#contact)
+
 </div>
 
 <br/>
 
+<a id="about"></a>
 ## 🌸 Hello, I'm Wijdane
 
 > *I love understanding a business need, exploring the data behind it, and building a solution people can actually use.*
@@ -31,8 +40,22 @@ class Wijdane:
     looking_for = "Data Scientist (Data & AI) opportunities 💜"
 ```
 
+<details>
+<summary><b>💡 Ask me about… (click)</b></summary>
 <br/>
 
+- 🤖 Training and evaluating a **sentiment analysis** model with Naive Bayes
+- 🏥 Turning **hospital data** into KPIs and decision dashboards
+- 🏗️ Building an **ETL pipeline** into a Data Warehouse
+- 🐘 Processing large datasets with **Hadoop and Spark**
+- 📊 Designing **Power BI** dashboards
+- 🖥️ Setting up **Active Directory, DNS and DHCP** on a server
+
+</details>
+
+<div align="center">✦ ✧ ✦</div>
+
+<a id="toolbox"></a>
 ## 🧰 My Toolbox
 
 <div align="center">
@@ -59,8 +82,9 @@ class Wijdane:
 
 </div>
 
-<br/>
+<div align="center">✦ ✧ ✦</div>
 
+<a id="projects"></a>
 ## 🚀 Projects &nbsp;<sub>(click to open ✨)</sub>
 
 <details>
@@ -124,39 +148,23 @@ An automated conversational agent.
 
 📂 More in [**data-science-portfolio**](https://github.com/wijdane-elkamili/data-science-portfolio) and [**Mes-Projets**](https://github.com/wijdane-elkamili/Mes-Projets)
 
-<br/>
+<div align="center">✦ ✧ ✦</div>
 
-## 🛤️ My Journey
+<a id="journey"></a>
+## 🛤️ My Journey &amp; Roadmap
 
-| | |
-|:--|:--|
-| 🎓 **2026 → now** | **Bachelor in Data Science** |
-| 🛫 **Internship** | **IT Intern, Marrakech Menara Airport**: server deployment, Active Directory, DNS & DHCP, database setup, network configuration |
-| 🏅 **2024 → 2026** | **DUT in Data Engineering**, EST El Kelaa des Sraghna *(graduated)* |
-| 📘 **2024** | **Baccalauréat in Physical Sciences**, French option, with honours *(mention Bien)* |
+| Status | Milestone |
+|:--:|:--|
+| ✅ | **2024:** Baccalauréat in Physical Sciences, French option, with honours *(mention Bien)* |
+| ✅ | **2024 → 2026:** DUT in Data Engineering, EST El Kelaa des Sraghna *(graduated)* |
+| ✅ | **Internship:** IT Intern at Marrakech Menara Airport: server deployment, Active Directory, DNS & DHCP, database setup, network configuration |
+| 🔄 | **2026 → now:** Bachelor in Data Science |
+| 🔄 | **Leveling up:** advanced ML & NLP, big data with Spark, data engineering pipelines, decision dashboards |
+| 🎯 | **Next:** Data Scientist (Data & AI) opportunity |
 
-<br/>
+<div align="center">✦ ✧ ✦</div>
 
-## 🌱 Currently Growing In
-
-![ML](https://img.shields.io/badge/Advanced%20ML%20%26%20NLP-cdb4db?style=for-the-badge&labelColor=5a189a)
-![Spark](https://img.shields.io/badge/Big%20Data%20with%20Spark-ffafcc?style=for-the-badge&labelColor=5a189a)
-![DE](https://img.shields.io/badge/Data%20Engineering%20Pipelines-a2d2ff?style=for-the-badge&labelColor=5a189a)
-![BI](https://img.shields.io/badge/Decision%20Dashboards-cdb4db?style=for-the-badge&labelColor=5a189a)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wijdane-elkamili&show_icons=true&title_color=9d4edd&icon_color=f72585&text_color=5a189a&bg_color=fff0f6&border_color=cdb4db&border_radius=16" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijdane-elkamili&layout=compact&title_color=9d4edd&text_color=5a189a&bg_color=fff0f6&border_color=cdb4db&border_radius=16" />
-
-</div>
-
-<br/>
-
+<a id="contact"></a>
 ## 💌 Let's Connect
 
 <div align="center">
