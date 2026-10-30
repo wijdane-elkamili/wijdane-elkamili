@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Wijdane EL KAMILI - Data Science">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6ecff"/>
+      <stop offset="0.5" stop-color="#ffe3f0"/>
+      <stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f72585"/>
+      <stop offset="0.5" stop-color="#9d4edd"/>
+      <stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f72585"/>
+      <stop offset="1" stop-color="#9d4edd"/>
+    </linearGradient>
+    <radialGradient id="panel" cx="0.5" cy="0.35" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f1e4ff"/></radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="card"><rect x="0" y="0" width="1000" height="340" rx="26"/></clipPath>
+    <clipPath id="face"><circle cx="815" cy="170" r="112"/></clipPath>
+    <clipPath id="marquee"><rect x="40" y="234" width="610" height="40" rx="20"/></clipPath>
+    <clipPath id="typeclip">
+      <rect x="50" y="154" width="0" height="34">
+        <animate attributeName="width" from="0" to="580" dur="3s" begin="0.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <g id="pills" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+      <g><rect x="40" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="58" cy="254" r="3.5" fill="#f72585"/><text x="122" y="259" text-anchor="middle" fill="#5a189a">Machine Learning</text></g>
+      <g><rect x="200" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="218" cy="254" r="3.5" fill="#f72585"/><text x="282" y="259" text-anchor="middle" fill="#5a189a">NLP</text></g>
+      <g><rect x="360" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="378" cy="254" r="3.5" fill="#f72585"/><text x="442" y="259" text-anchor="middle" fill="#5a189a">Big Data</text></g>
+      <g><rect x="520" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="538" cy="254" r="3.5" fill="#f72585"/><text x="602" y="259" text-anchor="middle" fill="#5a189a">Hadoop &#183; Spark</text></g>
+      <g><rect x="680" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="698" cy="254" r="3.5" fill="#f72585"/><text x="762" y="259" text-anchor="middle" fill="#5a189a">ETL Pipelines</text></g>
+      <g><rect x="840" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="858" cy="254" r="3.5" fill="#f72585"/><text x="922" y="259" text-anchor="middle" fill="#5a189a">Data Warehouse</text></g>
+      <g><rect x="1000" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="1018" cy="254" r="3.5" fill="#f72585"/><text x="1082" y="259" text-anchor="middle" fill="#5a189a">Power BI</text></g>
+      <g><rect x="1160" y="238" width="148" height="32" rx="16" fill="#ffffff" fill-opacity="0.75" stroke="#cdb4db" stroke-width="1.2"/><circle cx="1178" cy="254" r="3.5" fill="#f72585"/><text x="1242" y="259" text-anchor="middle" fill="#5a189a">Python</text></g>
+    </g>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+
+    <!-- soft blobs -->
+    <circle cx="930" cy="40" r="110" fill="#cdb4db" fill-opacity="0.35"/>
+    <circle cx="40" cy="320" r="100" fill="#a2d2ff" fill-opacity="0.35"/>
+    <circle cx="640" cy="320" r="70" fill="#ffafcc" fill-opacity="0.3"/>
+
+    <!-- sparkles -->
+    <g font-family="Segoe UI Symbol, Arial, sans-serif" fill="#9d4edd">
+      <text x="640" y="60" font-size="18"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>&#10022;</text>
+      <text x="960" y="150" font-size="14" fill="#f72585"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>&#10022;</text>
+      <text x="690" y="300" font-size="16" fill="#4cc9f0"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/>&#10022;</text>
+      <text x="930" y="290" font-size="20"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/>&#10023;</text>
+      <text x="30" y="40" font-size="14" fill="#f72585"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/>&#10022;</text>
+      <text x="560" y="40" font-size="12"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>&#10023;</text>
+    </g>
+
+    <!-- photo with glow and rotating ring -->
+    <circle cx="815" cy="178" r="118" fill="#f72585" fill-opacity="0.35" filter="url(#soft)"/>
+    <circle cx="815" cy="170" r="132" fill="none" stroke="url(#ring)" stroke-width="2.5" stroke-dasharray="6 10" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 815 170" to="360 815 170" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="815" cy="170" r="120" fill="#ffffff"/>
+    <g clip-path="url(#face)">
+      <rect x="703" y="58" width="224" height="224" fill="url(#panel)"/>
+      <text x="815" y="104" text-anchor="middle" font-family="Segoe UI Symbol, Arial, sans-serif" font-size="16" fill="#f72585">&#10022;</text>
+      <text x="815" y="126" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" fill="#9d4edd" letter-spacing="4">INSIGHTS</text>
+      <line x1="735" y1="215" x2="895" y2="215" stroke="#cdb4db" stroke-width="2" stroke-linecap="round"/>
+      <rect x="745" y="175" width="20" height="40" rx="4" fill="#cdb4db"><animate attributeName="height" values="0;40" dur="1.2s" fill="freeze"/><animate attributeName="y" values="215;175" dur="1.2s" fill="freeze"/></rect>
+      <rect x="777" y="153" width="20" height="62" rx="4" fill="#ffafcc"><animate attributeName="height" values="0;62" dur="1.2s" begin="0.15s" fill="freeze"/><animate attributeName="y" values="215;153" dur="1.2s" begin="0.15s" fill="freeze"/></rect>
+      <rect x="809" y="165" width="20" height="50" rx="4" fill="#a2d2ff"><animate attributeName="height" values="0;50" dur="1.2s" begin="0.3s" fill="freeze"/><animate attributeName="y" values="215;165" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+      <rect x="841" y="131" width="20" height="84" rx="4" fill="#cdb4db"><animate attributeName="height" values="0;84" dur="1.2s" begin="0.45s" fill="freeze"/><animate attributeName="y" values="215;131" dur="1.2s" begin="0.45s" fill="freeze"/></rect>
+      <rect x="873" y="145" width="20" height="70" rx="4" fill="#ffafcc"><animate attributeName="height" values="0;70" dur="1.2s" begin="0.6s" fill="freeze"/><animate attributeName="y" values="215;145" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+      <polyline points="755,164 787,142 819,154 851,120 883,134" fill="none" stroke="#9d4edd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="#f72585"><circle cx="755" cy="164" r="4"/><circle cx="787" cy="142" r="4"/><circle cx="819" cy="154" r="4"/><circle cx="851" cy="120" r="4"/><circle cx="883" cy="134" r="5"><animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/></circle></g>
+      <text x="815" y="240" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#7b2cbf" letter-spacing="2">DATA &#8594; DECISIONS</text>
+    </g>
+    <circle cx="815" cy="170" r="116" fill="none" stroke="url(#ring)" stroke-width="4"/>
+
+    <!-- text -->
+    <text x="50" y="72" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f72585" letter-spacing="6">HELLO, I'M</text>
+    <text x="50" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#5a189a" textLength="580" lengthAdjust="spacing">WIJDANE EL KAMILI</text>
+
+    <g clip-path="url(#typeclip)">
+      <text x="50" y="178" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" fill="#9d4edd" textLength="580" lengthAdjust="spacing">DATA SCIENCE STUDENT | DATA ENGINEERING GRADUATE</text>
+    </g>
+    <rect x="50" y="159" width="9" height="22" fill="#f72585">
+      <animate attributeName="x" from="50" to="632" dur="3s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="50" y="202" width="580" height="3" rx="1.5" fill="url(#edge)"/>
+
+    <!-- scrolling skills -->
+    <g clip-path="url(#marquee)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1280 0" dur="28s" repeatCount="indefinite"/>
+        <use href="#pills" xlink:href="#pills"/>
+        <use href="#pills" xlink:href="#pills" x="1280"/>
+      </g>
+    </g>
+
+    <text x="50" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7b2cbf" letter-spacing="3">TURNING RAW DATA INTO DECISIONS</text>
+  </g>
+
+  <rect x="2" y="2" width="996" height="336" rx="24" fill="none" stroke="url(#edge)" stroke-width="2.5"/>
+</svg>
