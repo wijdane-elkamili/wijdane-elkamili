@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wijdane-elkamili/wijdane-elkamili/main/banner-photo.svg" width="100%" alt="Wijdane EL KAMILI - Data Science"/>
+<img src="https://raw.githubusercontent.com/wijdane-elkamili/wijdane-elkamili/main/banner-data.svg" width="100%" alt="Wijdane EL KAMILI - Data Science"/>
 
 <br/><br/>
 
