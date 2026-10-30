@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cdb4db&height=250&section=header&text=Wijdane%20EL%20KAMILI&fontSize=48&fontColor=5a189a&fontAlignY=38&animation=twinkling&desc=Data%20Science%20%E2%9C%A6%20Machine%20Learning%20%E2%9C%A6%20Big%20Data&descSize=18&descColor=7b2cbf&descAlignY=60" width="100%" alt="banner"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=9D4EDD&center=true&vCenter=true&width=720&lines=Hello+world!+I'm+Wijdane+%F0%9F%91%8B;Data+Science+Student+%C2%B7+Data+Engineering+Graduate+%F0%9F%8E%93;I+turn+raw+data+into+decisions+%E2%9C%A8;Machine+Learning+%C2%B7+NLP+%C2%B7+Big+Data+%C2%B7+Power+BI+%F0%9F%92%9C;Open+to+Data+%26+AI+opportunities+%F0%9F%8C%B8" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/wijdane-elkamili/wijdane-elkamili/main/banner-photo.svg" width="100%" alt="Wijdane EL KAMILI - Data Science"/>
 
 <br/><br/>
 
